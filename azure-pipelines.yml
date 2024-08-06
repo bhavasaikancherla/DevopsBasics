@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'default'
+  name: 'Bhava Agent'
 
 steps:
 - script: echo Hello, Bosai!
